@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "15733910618",
+    "firebase_url": "https://rfid-d2376.firebaseio.com",
+    "project_id": "rfid-d2376",
+    "storage_bucket": "rfid-d2376.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15733910618:android:da048f65af757dbf",
+        "android_client_info": {
+          "package_name": "com.example.ruben.rfid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15733910618-ip3hg62q02841mjp4m7041722saedf9e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAku1qlRjM-4XWIvlLSmZfeYzKNbwn97yY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15733910618:android:8f751fd17533a547",
+        "android_client_info": {
+          "package_name": "com.example.ruben.rfid_hampir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15733910618-ip3hg62q02841mjp4m7041722saedf9e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAku1qlRjM-4XWIvlLSmZfeYzKNbwn97yY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

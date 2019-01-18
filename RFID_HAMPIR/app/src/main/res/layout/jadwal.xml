@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:textAlignment="center"
+    android:weightSum="1">
+
+    <TextView
+        android:text="Hari"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView"
+        tools:text="Hari"
+        android:layout_marginTop="20dp"
+        android:textAlignment="center"
+        android:fontFamily="casual"
+        android:textSize="24sp" />
+
+    <Spinner
+        android:layout_width="237dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/spinner"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center_vertical"
+        android:verticalScrollbarPosition="right"
+        android:textAlignment="center"
+        tools:textAlignment="center"
+        android:layout_marginLeft="75dp" />
+
+    <TimePicker
+        android:layout_width="275dp"
+        android:id="@+id/timePicker"
+        android:layout_height="160dp"
+        android:layout_marginTop="25dp"
+        android:layout_marginLeft="30dp"
+        android:amPmTextColor="@android:color/holo_blue_bright"
+        android:amPmBackgroundColor="?android:attr/colorPrimary"
+        android:headerBackground="@android:color/holo_blue_dark"
+        android:numbersSelectorColor="@android:color/holo_orange_light"
+        android:timePickerMode="spinner" />
+
+    <Button
+        android:text="SAVE"
+        android:layout_width="227dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/button"
+        android:layout_marginTop="40dp"
+        android:background="@android:color/darker_gray"
+        android:layout_marginLeft="50dp" />
+
+    <TextView
+        android:layout_width="353dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView2"
+        android:layout_marginTop="50dp"
+        android:elevation="1dp"
+        android:textAlignment="center"
+        android:fontFamily="casual"
+        android:textSize="24sp"/>
+
+    <TextView
+        android:layout_width="354dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView3"
+        android:layout_marginTop="10dp"
+        android:textAlignment="center"
+        android:fontFamily="casual"
+        android:textSize="24sp"/>
+
+</LinearLayout>
